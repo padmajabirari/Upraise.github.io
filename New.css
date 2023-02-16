@@ -1,0 +1,85 @@
+.maindiv{
+background-image: linear-gradient(to left,skyblue,blue);
+}
+.head{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+    /* font-family: cursive; */
+    
+    
+    
+}
+.free{
+    float: right;
+    margin-top: 4px;
+    color: white;
+}
+.imgdiv{
+    padding-left: 70px;
+    padding-top: 90px;
+    color: white;
+}
+
+.imgdiv1{
+    padding-left: 120px;
+    padding-top: 90px;
+   
+}
+.thirdrow{
+    
+    background-color: #f3f4f5;
+    
+}
+.lowerdivdata{
+    margin-top: -60px;
+    text-align: justify;
+}
+.card1{
+    margin-left: 50px;
+    /* margin-top: -50px; */
+}
+.card2{
+    margin-left: 60px;
+}
+.paintimg{
+    margin-top: -60px;
+}
+.paintdata{
+     background-color: #f3f4f5;
+}
+.relaxdatta{
+    padding-top: 20px;
+    text-align: justify;
+    
+}
+.relaximg{
+    margin-left: 60px;
+}
+
+.updesign{
+    /* background-color: #0099ff; */
+    background-image: linear-gradient(to right,skyblue,blue);
+
+    height: 30px;
+}
+.downdesign{
+    /* background-color: #0099ff; */
+    background-image: linear-gradient(to right,skyblue,blue);
+
+    
+    
+}
+.logoimg2{
+    padding-top: 10px;
+}
+.logoimg5{
+margin-top: -20px;
+margin-left: -25px;
+}
+.lastsvg{
+    background-color:#f3f4f5;
+}
+ul li{
+    list-style-type: none;
+}
